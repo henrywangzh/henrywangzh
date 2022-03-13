@@ -1,4 +1,4 @@
-### Bonjour. Moshi moshi. I'm Henry, currently studying Computer Science and Engineering at UCLA
+### Moshi moshi. I'm Henry, currently studying Computer Science and Engineering at UCLA
 
 <!--
 **henrywangzh/henrywangzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
