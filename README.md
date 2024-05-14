@@ -1,4 +1,4 @@
-## Moshi moshi, I'm Henry. CS generalist. Currently studying Computer Science at UCLA
+## Moshi moshi, I'm Henry. CS generalist. UCLA CS '24, incoming at Meta Reality Labs
 
 <!--
 **henrywangzh/henrywangzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
